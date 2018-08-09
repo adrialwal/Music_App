@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#009688</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#00796B</color>
+
+    <!-- Background color for app -->
+    <color name="light_background">#90A4AE</color>
+
+    <!-- Background color for the search category -->
+    <color name="category_search">#4DB6AC</color>
+
+    <!-- Background color for the discover category -->
+    <color name="category_discover">#00897B</color>
+
+    <!-- Background color for the podcasts category -->
+    <color name="category_podcasts">#00897B</color>
+
+    <!-- Background color for the store category -->
+    <color name="category_store">#4DB6AC</color>
+
+    <!-- Background color for the now playing category -->
+    <color name="category_playing">#004D40</color>
+
+</resources>

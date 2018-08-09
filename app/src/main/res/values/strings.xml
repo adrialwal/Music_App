@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Title for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Music App</string>
+
+    <!-- Category name for the search artist [CHAR LIMIT=20] -->
+    <string name="category_search">Search</string>
+
+    <!-- Category name to discover new music [CHAR LIMIT=20] -->
+    <string name="category_discover">Discover</string>
+
+    <!-- Category name to find podcasts [CHAR LIMIT=20] -->
+    <string name="category_podcasts">Podcasts</string>
+
+    <!-- Category name for the store [CHAR LIMIT=20] -->
+    <string name="category_store">Store</string>
+
+    <!-- Category name to see what is now playing [CHAR LIMIT=20] -->
+    <string name="category_playing">Now Playing</string>
+
+    <!-- Search function explanation-->
+    <string name="search_info">In this screen the user will be able to search for artist, albums,
+        or songs.</string>
+
+    <!-- Discover function explanation-->
+    <string name="discover_info">The Discover button will bring the user to new a activity with a
+        list of different genres.</string>
+
+    <!-- Podcasts function explanation-->
+    <string name="podcasts_info">The Podcast button will bring the user to new activity in which
+        the user can find new podcasts as well as a list of podcasts thatthe user is following.</string>
+
+    <!-- Store function explanation-->
+    <string name="store_info">Once the Store button is clicked it will launch the user to a new
+        activity in which the user can purchase music.</string>
+
+    <!-- Now playing function explanation-->
+    <string name="playing_info">The Now Playing function will bring up a MediaPlayer that will
+        allow the user to play, pause, skip, stop, and seek.</string>
+</resources>

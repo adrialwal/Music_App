@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Title for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Musique App</string>
+
+    <!-- Category name for the search artist [CHAR LIMIT=20] -->
+    <string name="category_search">Chercher</string>
+
+    <!-- Category name to discover new music [CHAR LIMIT=20] -->
+    <string name="category_discover">Découvrir</string>
+
+    <!-- Category name to find podcasts [CHAR LIMIT=20] -->
+    <string name="category_podcasts">Podcasts</string>
+
+    <!-- Category name for the store [CHAR LIMIT=20] -->
+    <string name="category_store">le magasin</string>
+
+    <!-- Category name to see what is now playing [CHAR LIMIT=20] -->
+    <string name="category_playing">Lecture en cours</string>
+
+    <!-- Search function explanation-->
+    <string name="search_info">Dans cet écran, l\'utilisateur pourra rechercher des artistes, des albums ou des chansons.</string>
+
+    <!-- Discover function explanation-->
+    <string name="discover_info">Le bouton Découvrir amènera l\'utilisateur à une nouvelle activité avec une liste de genres différents.</string>
+
+    <!-- Podcasts function explanation-->
+    <string name="podcasts_info">Le bouton Podcast amène l\'utilisateur à une nouvelle activité dans laquelle l\'utilisateur peut trouver de nouveaux podcasts ainsi qu\'une liste de podcasts que l\'utilisateur suit</string>
+
+    <!-- Store function explanation-->
+    <string name="store_info">Une fois que le bouton Store est cliqué, l\'utilisateur se lance dans une nouvelle activité dans laquelle l\'utilisateur peut acheter de la musique.</string>
+
+    <!-- Now playing function explanation-->
+    <string name="playing_info">La fonction Lecture en cours fera apparaître un MediaPlayer qui permettra à l\'utilisateur de jouer, de mettre en pause, d\'ignorer, d\'arrêter et de rechercher.</string>
+</resources>
